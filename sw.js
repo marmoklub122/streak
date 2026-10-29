@@ -1,7 +1,7 @@
 
-const VERSION = 'streak-78c6650a';
+const VERSION = 'streak-3f1a0eb6';
 const SHELL = [
-  './', 'index.html', 'manifest.webmanifest', 's.78c6650a.js', 's.78c6650a.css',
+  './', 'index.html', 'manifest.webmanifest', 's.3f1a0eb6.js', 's.3f1a0eb6.css',
   'assets/icons/apple-touch-icon.png', 'assets/icons/icon-192.png', 'assets/icons/icon-512.png',
   'assets/img/av_ds.jpg', 'assets/img/av_ivan.jpg', 'assets/img/av_kate.jpg', 'assets/img/av_max.jpg', 'assets/img/av_volkov.jpg',
   'assets/img/post_cat.jpg', 'assets/img/post_coffee.jpg', 'assets/img/post_moto.jpg', 'assets/img/post_rocket.jpg'
